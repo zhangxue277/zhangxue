@@ -1,7 +1,24 @@
-# zhangxue
-每一个js文件都对应一项功能需求的代码，里面包含该需求所有代码，不仅限于js代码
-目录
-1、文件下载
-2、文件上传
-3、json格式数据与xml格式数据互相转换
-4、
+# myvue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
