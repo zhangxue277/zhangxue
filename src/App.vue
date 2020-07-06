@@ -1,8 +1,9 @@
 <template>
   <div id="app">
-    <p>我媳妇最棒了！！！</p>
+    测试
   </div>
 </template>
 
-<style lang="scss">
+<style>
+  @import "assets/css/base.css";
 </style>
